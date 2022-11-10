@@ -73,7 +73,7 @@ const displayRecipes = (name, type, price) => {
      type.style = "color: black;";
      price.style = "color: black;";
      });
-
+     
 
      // TORTA AL TOP DELLA PAGINA
      function topFunction() {
