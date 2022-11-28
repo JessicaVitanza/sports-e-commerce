@@ -75,7 +75,7 @@ const displayRecipes = (name, type, price) => {
      });
      
 
-     // TORTA AL TOP DELLA PAGINA
+     // TORNA AL TOP DELLA PAGINA
      function topFunction() {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
@@ -105,4 +105,4 @@ const displayRecipes = (name, type, price) => {
        document.addEventListener("click", windowOnClick);
 
        
-    // SEARCH BAR CON FILTRO PER NAME, TYPE, PRICE
+    // SEARCH BAR CON FILTRO PER NAME, TYPE, PRICE ???
